@@ -51,7 +51,7 @@ You can also access helper functions to investigate the data further in the modu
 
 # Conclusion
 
-It was great to pull together three key data skills for this project; accessing and scraping data via an API, doing some NLP using Textblob library and presenting via a new data app framework. I learnt alot in undertaking this project. There is scope to extend this project and do more indepth analysis on the sentiment of the tweets, see what affect cleaning might have on the tweet data. Also, I could test the results against other NLP libraries.
+It was great to pull together three key data skills for this project; accessing and scraping data via an API, doing some NLP using Textblob library and presenting via a new data app framework. I learnt alot in undertaking this project. There is scope to extend this project and do more indepth analysis on the sentiment of the tweets, and see what effect cleaning might have on the tweet data. I could also test the results against other NLP libraries.
 
 
 
