@@ -33,7 +33,7 @@ To view the data in Streamlit:
 ```
 streamlit run TweepyMPs.py
 ```
-
+You can also access helper functions to investigate the data further in the module: [twitter_handles_list.py](twitter_handles_list.py) and [TweepyMPs.py](TweepyMPs.py)
 
 # Data
 
