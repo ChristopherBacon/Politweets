@@ -27,7 +27,7 @@ cd politweets
 ```
 pip install requirements.txt
 ```
-If you want to scrape your own tweet data you will need to register for a twitter API key and register your project. The code that is commented out contained in: [twitter_api.py](https://github.com/ChristopherBacon/Politweets/twitter_api.py), you can follow a tutorial and register for an API [here](https://developer.twitter.com/en/docs/twitter-api/tutorials).
+If you want to scrape your own tweet data you will need to register for a twitter API key and register your project. The code that is commented out contained in: [twitter_api.py](twitter_api.py), you can follow a tutorial and register for an API [here](https://developer.twitter.com/en/docs/twitter-api/tutorials).
 
 To view the data in Streamlit:
 ```
