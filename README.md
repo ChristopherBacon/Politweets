@@ -11,7 +11,7 @@ Politweets scrapes UK politician tweets using the Twitter API &amp; Tweepy. Sent
 - [Installation](#Installation)
 - [Data](#Data)
 - [Code](#Code)
-- [Conclusion & References](#Conclusion-&-References)
+- [Conclusion](#Conclusion)
 
 # Installation
 
@@ -39,7 +39,7 @@ You can also access helper functions to investigate the data further in the modu
 
 1. ```politweets.csv``` The csv containing all of the scraped tweets, with polarity and subjectivity features
 
-2.```MPs_twitter.csv``` The csv containing all of the MPs twitter handles as used with Tweepy when scraping tweets. Party data also used. This is a great resource downloadable from [Politics Social](https://www.politics-social.com)
+2. ```MPs_twitter.csv``` The csv containing all of the MPs twitter handles as used with Tweepy when scraping tweets. Party data also used. This is a great resource downloadable from [Politics Social](https://www.politics-social.com)
 
 # Code
 
@@ -49,7 +49,11 @@ You can also access helper functions to investigate the data further in the modu
 
 3. [TweepyMPs.py](TweepyMPs.py) Polarity, Subjectivity and design functions along with the bulk of the Streamlit code to format display properties
 
-# Conclusion & References
+# Conclusion
+
+It was great to pull together three key data skills for this project; accessing and scraping data via an API, doing some NLP using Textblob library and presenting via a new data app framework. I learnt alot in undertaking this project. There is scope to extend this project and do more indepth analysis on the sentiment of the tweets, see what affect cleaning might have on the tweet data. Also, I could test the results against other NLP libraries.
+
+
 
 
 
