@@ -43,7 +43,9 @@ You can also access helper functions to investigate the data further in the modu
 # Code
 
 1.[twitter_api.py](twitter_api.py) Contains the functions to access Twitter API and scrape data with Tweepy. Finally saving the data to ```politweets.csv```
+
 2.[twitter_handles_list.py](twitter_handles_list.py) Functions to clean Twitter handles and create politcal party column
+
 3.[TweepyMPs.py](TweepyMPs.py) Polarity, Subjectivity and design functions along with the bulk of the Streamlit code to format display properties
 
 # Conclusion & References
