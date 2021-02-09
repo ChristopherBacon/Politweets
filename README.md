@@ -20,7 +20,14 @@ Politweets scrapes UK politician tweets using the Twitter API &amp; Tweepy. Sent
 git clone https://github.com/ChristopherBacon/Politweets.git
 cd politweets
 ```
+2. Create a python 3.73 environment.
 
+3.Install dependencies
+
+```
+pip install requirements.txt
+```
+If you want to scrape your own tweet data you will need to register for a twitter API key and register your project. The code that is commented out contained in: [twitter_api.py](*twitter_api.py), you can follow a tutorial and register for an API [here](https://developer.twitter.com/en/docs/twitter-api/tutorials)
 
 # Data
 
