@@ -3,4 +3,4 @@ Politweets scrapes UK politician tweets using the Twitter API &amp; Tweepy. Sent
 
 ## Preview
 
-![Screenshot](Politweets/politweets_screen.png)
+<img src="politweets_screen.png" width="500" height="450">
