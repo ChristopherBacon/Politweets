@@ -15,8 +15,16 @@ Politweets scrapes UK politician tweets using the Twitter API &amp; Tweepy. Sent
 
 # Installation
 
+1. Start by cloning the repository
+<code/>
+git clone
+
+</>
+
+
 # Data
 
 # Code
 
-# Licence
+# Licence & References
+
