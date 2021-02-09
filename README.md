@@ -37,7 +37,18 @@ You can also access helper functions to investigate the data further in the modu
 
 # Data
 
+1. ```politweets.csv``` The csv containing all of the scraped tweets, with polarity and subjectivity features
+2.```MPs_twitter.csv``` The csv containing all of the MPs twitter handles as used with Tweepy when scraping tweets. Party data also used. This is a great resource downloadable from [Politics Social](https://www.politics-social.com)
+
 # Code
 
-# Licence & References
+1.[twitter_api.py](twitter_api.py) Contains the functions to access Twitter API and scrape data with Tweepy. Finally saving the data to ```politweets.csv```
+2.[twitter_handles_list.py](twitter_handles_list.py) Functions to clean Twitter handles and create politcal party column
+3.[TweepyMPs.py](TweepyMPs.py) Polarity, Subjectivity and design functions along with the bulk of the Streamlit code to format display properties
+
+# Conclusion & References
+
+
+
+
 
