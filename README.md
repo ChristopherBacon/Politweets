@@ -1,9 +1,10 @@
 # Politweets
 Politweets scrapes UK politician tweets using the Twitter API &amp; Tweepy. Sentiment analysis applied via Textblob and presented using Streamlit.
 
-## Preview
+# Preview
 
 <img src="politweets_screen.png" width="500" height="450">
 
-## Contents
+# Table of Contents
 
+- [Politweets](#Politweets)
