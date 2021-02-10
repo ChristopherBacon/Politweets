@@ -20,7 +20,7 @@ Politweets scrapes UK politician tweets using the Twitter API &amp; Tweepy. Sent
 git clone https://github.com/ChristopherBacon/Politweets.git
 cd politweets
 ```
-2. Create a python 3.73 environment.
+2. Create a ```python 3.7.3``` environment.
 
 3. Install dependencies
 
